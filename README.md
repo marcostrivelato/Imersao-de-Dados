@@ -1,2 +1,4 @@
 # Imersao_de_dados
-Notebook from Data Science introductory Classes
+[PT] Notebbok de aulas introdutórias à data science com python
+
+[EN] Notebook from fata science introductory classes using python
